@@ -4,3 +4,4 @@
 ## [Tamrin 4](https://github.com/iiTsAmir/special-mabaahes/tree/main/Exercises%204)
 ## [Tamrin 5](https://github.com/iiTsAmir/special-mabaahes/blob/main/exercise%205.ipynb)
 ## [Tamrin 6](https://github.com/iiTsAmir/special-mabaahes/blob/main/exercise%206.ipynb)
+## [Tamrin 7](https://github.com/iiTsAmir/special-mabaahes/blob/main/exercise%207.ipynb)
